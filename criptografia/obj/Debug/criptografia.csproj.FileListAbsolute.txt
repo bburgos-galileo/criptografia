@@ -1,0 +1,8 @@
+C:\Users\bburgos\source\repos\criptografia\criptografia\obj\Debug\criptografia.csproj.AssemblyReference.cache
+C:\Users\bburgos\source\repos\criptografia\criptografia\obj\Debug\criptografia.csproj.SuggestedBindingRedirects.cache
+C:\Users\bburgos\source\repos\criptografia\criptografia\obj\Debug\criptografia.csproj.CoreCompileInputs.cache
+C:\Users\bburgos\source\repos\criptografia\criptografia\bin\Debug\criptografia.exe.config
+C:\Users\bburgos\source\repos\criptografia\criptografia\bin\Debug\criptografia.exe
+C:\Users\bburgos\source\repos\criptografia\criptografia\bin\Debug\criptografia.pdb
+C:\Users\bburgos\source\repos\criptografia\criptografia\obj\Debug\criptografia.exe
+C:\Users\bburgos\source\repos\criptografia\criptografia\obj\Debug\criptografia.pdb
